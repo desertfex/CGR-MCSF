@@ -1,6 +1,6 @@
 # CGR-MCSF
 
-**Contour-Geometry Residual Fusion with a Frozen Multi-Source Network for Breast Ultrasound Lesion Classification**
+**Contour-geometry residual fusion for breast ultrasound lesion classification**
 
 This repository is the permanent public landing page for the CGR-MCSF research code.
 
