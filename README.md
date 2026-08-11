@@ -6,7 +6,7 @@ This repository is the permanent public landing page for the CGR-MCSF research c
 
 ## Release status
 
-The complete source code, configuration files, patient-level split manifests, evaluation scripts, and reproducibility materials will be made publicly available in this repository **immediately after the associated manuscript is accepted for publication**.
+The source code will be made publicly available in this repository **immediately after the associated manuscript is accepted for publication**.
 
 ## Data
 
